@@ -1,0 +1,80 @@
+COLORS -->
+
+text-blue-50               ->text color change
+bg-red-100                 ->background color change
+border-green-50 border-4   ->border color
+outline-yello-50 outline-8 -> outline 
+
+MARGIN AND PADDING -->
+P-10                       ->   padding means under bala
+m-10                       ->margin mense bharabala   1->4px
+px-5                       ->x axis means  horizontaly
+py-10                      ->y axis means vertically 
+mx-10                      ->(left and right)
+my-10                      ->(top,buttom)
+mt                         ->only top
+ml                         ->only left
+pb                         ->buttom only
+mb                         ->buttom only
+p-[1px]                    ->it workd always
+
+width, min,max   -->
+w-10                        ->10*4  = 40px width
+max-w-50                    ->maximum it conten
+min-w-100                   ->minimum contain
+w-full                      ->full screen
+w-1/2                       ->50% 
+w-xs
+w-xl
+w-2xl
+
+hover:write 
+
+height,min,max    -->
+h-30                        ->mens 120px
+h-full                      ->full height and h-screen allowed to perfomed full height
+h-1/2 , h-1/3               ->50% height
+h-auto
+h-dvw                        ->dynamic view port
+max-h-50                     ->maximum
+
+size  -->
+size-95
+min-size-40                    ->wight and height through work
+h-screen then h-1/2            ->50%
+size-full hover:size-1/4
+
+position   ->
+absolute buttom-0 right-0   ->screen wise
+relative 
+inset-10 absult  -->main div relative
+fixed
+z-2
+
+container  -->
+responsive website wieth manage
+two side space 
+container   ->right side some space 
+mx-auto then it center
+
+background  -->
+bg-red-500
+bg-[url()]
+bg-no-repeat
+bg-centerbg-cover
+bg-container
+gradient -> bg-gradient-to-t to-blue-500 from-red-500 
+            bg-gradient-to-l
+shadow-orange-400 shadow-2xl
+shadow-inner shadow-blue-500
+
+filter with images -->
+blur-sm
+blur-md
+blur-3xl  in case text or image 
+brightness-50
+contrast-0
+contrast-100
+grayscale-> black
+invert   ->filmy black
+hue-15    ->color change
